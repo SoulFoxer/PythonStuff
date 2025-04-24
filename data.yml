@@ -1,0 +1,11 @@
+release_branch: "release-2025.04"
+devkit_version: "v1.3.0"
+apps:
+  beamformer:
+    url: "testurl"
+    commit: "3bfghwas"
+    conan-file: "link dahin"
+  line-detector:
+    url: "testurlline"
+    commit: "ffbfghwas"
+    conan-file: "link dahin"
